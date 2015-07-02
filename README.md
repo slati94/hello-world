@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+Buna
+
+Azi incep sa lucrez in github
